@@ -8,7 +8,7 @@ Axel Soubeste</a></h1>
 
 - 🌱 I’m currently Working on Data Analysis(Python)
 
-- 🌱 I’m currently learning C in <a href="https://web.upe.edu.ar/" target="blank">Provincial University of Ezeiza</a>
+- 🌱 I’m currently learning Software Development in <a href="https://web.upe.edu.ar/" target="blank">Provincial University of Ezeiza</a>
 
 - 📫 How to reach me **axelsoubestte@gmail.com**
 
