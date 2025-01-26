@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Axel Soubeste</a></h1>
-<h3 align="center">A passionate Data Analyst from Buenos Aires Argentina &#127470;&#127475</h3>
+<h3 align="center">A passionate Data Analyst from Buenos Aires Argentina</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
