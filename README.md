@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Axel Soubeste</a></h1>
-<h3 align="center">A passionate Data Analyst from Buenos Aires Argentina</h3>
+<h3 align="center">A passionate Software Developer from Buenos Aires Argentina</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 I’m currently Working on Data Analysis(Python)
-
-- 🌱 I’m currently learning Software Development in <a href="https://web.upe.edu.ar/" target="blank">Provincial University of Ezeiza</a>
+- 🌱 I’m currently learning Software Development in <a href="https://web.upe.edu.ar/" target="blank">Universidad Provincial de Ezeiza</a> and working on Data Analysis (Python)
 
 - 📫 How to reach me **axelsoubestte@gmail.com**
 
